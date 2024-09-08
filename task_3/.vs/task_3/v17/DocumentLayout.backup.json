@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Figure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Figure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\task_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\task_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Parallelogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Parallelogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rhombus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Rhombus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Equilateral_triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Equilateral_triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Rect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Rect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Isosceles_triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Isosceles_triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Quadrangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Quadrangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Quadrangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Quadrangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Equilateral_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Equilateral_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Isosceles_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Isosceles_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Right_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Right_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Right_triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Right_triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3443196B-EBDD-4C1B-BF40-2049242D2545}|task_3\\task_3.vcxproj|solutionrelative:task_3\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rect.h",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rect.h",
+              "RelativeDocumentMoniker": "task_3\\Rect.h",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rect.h",
+              "RelativeToolTip": "task_3\\Rect.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T09:35:04.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rect.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rect.cpp",
+              "RelativeDocumentMoniker": "task_3\\Rect.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rect.cpp",
+              "RelativeToolTip": "task_3\\Rect.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:34:57.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rhombus.h",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rhombus.h",
+              "RelativeDocumentMoniker": "task_3\\Rhombus.h",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rhombus.h",
+              "RelativeToolTip": "task_3\\Rhombus.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T09:34:44.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rhombus.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rhombus.cpp",
+              "RelativeDocumentMoniker": "task_3\\Rhombus.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Rhombus.cpp",
+              "RelativeToolTip": "task_3\\Rhombus.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:34:39.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Parallelogram.h",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Parallelogram.h",
+              "RelativeDocumentMoniker": "task_3\\Parallelogram.h",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Parallelogram.h",
+              "RelativeToolTip": "task_3\\Parallelogram.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T09:34:29.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parallelogram.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Parallelogram.cpp",
+              "RelativeDocumentMoniker": "task_3\\Parallelogram.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Parallelogram.cpp",
+              "RelativeToolTip": "task_3\\Parallelogram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:34:23.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Square.h",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Square.h",
+              "RelativeDocumentMoniker": "task_3\\Square.h",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Square.h",
+              "RelativeToolTip": "task_3\\Square.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T09:34:16.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Square.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Square.cpp",
+              "RelativeDocumentMoniker": "task_3\\Square.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Square.cpp",
+              "RelativeToolTip": "task_3\\Square.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:34:09.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Quadrangle.h",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Quadrangle.h",
+              "RelativeDocumentMoniker": "task_3\\Quadrangle.h",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Quadrangle.h",
+              "RelativeToolTip": "task_3\\Quadrangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T09:53:57.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Quadrangle.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Quadrangle.cpp",
+              "RelativeDocumentMoniker": "task_3\\Quadrangle.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Quadrangle.cpp",
+              "RelativeToolTip": "task_3\\Quadrangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:33:41.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Equilateral_triangle.h",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Equilateral_triangle.h",
+              "RelativeDocumentMoniker": "task_3\\Equilateral_triangle.h",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Equilateral_triangle.h",
+              "RelativeToolTip": "task_3\\Equilateral_triangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T09:33:29.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Equilateral_triangle.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Equilateral_triangle.cpp",
+              "RelativeDocumentMoniker": "task_3\\Equilateral_triangle.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Equilateral_triangle.cpp",
+              "RelativeToolTip": "task_3\\Equilateral_triangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:33:22.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Isosceles_triangle.h",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Isosceles_triangle.h",
+              "RelativeDocumentMoniker": "task_3\\Isosceles_triangle.h",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Isosceles_triangle.h",
+              "RelativeToolTip": "task_3\\Isosceles_triangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T09:33:12.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Isosceles_triangle.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Isosceles_triangle.cpp",
+              "RelativeDocumentMoniker": "task_3\\Isosceles_triangle.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Isosceles_triangle.cpp",
+              "RelativeToolTip": "task_3\\Isosceles_triangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:33:05.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Right_triangle.h",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Right_triangle.h",
+              "RelativeDocumentMoniker": "task_3\\Right_triangle.h",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Right_triangle.h",
+              "RelativeToolTip": "task_3\\Right_triangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T09:32:53.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Right_triangle.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Right_triangle.cpp",
+              "RelativeDocumentMoniker": "task_3\\Right_triangle.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Right_triangle.cpp",
+              "RelativeToolTip": "task_3\\Right_triangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:32:47.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Triangle.h",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Triangle.h",
+              "RelativeDocumentMoniker": "task_3\\Triangle.h",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Triangle.h",
+              "RelativeToolTip": "task_3\\Triangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T09:32:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Triangle.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Triangle.cpp",
+              "RelativeDocumentMoniker": "task_3\\Triangle.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Triangle.cpp",
+              "RelativeToolTip": "task_3\\Triangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:31:51.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Figure.h",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Figure.h",
+              "RelativeDocumentMoniker": "task_3\\Figure.h",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Figure.h",
+              "RelativeToolTip": "task_3\\Figure.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T09:31:38.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Figure.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Figure.cpp",
+              "RelativeDocumentMoniker": "task_3\\Figure.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\Figure.cpp",
+              "RelativeToolTip": "task_3\\Figure.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:31:25.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task_3.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\task_3.cpp",
+              "RelativeDocumentMoniker": "task_3\\task_3.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\5.Multi-file projects and libraries\\task_3\\task_3\\task_3.cpp",
+              "RelativeToolTip": "task_3\\task_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T09:29:55.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
